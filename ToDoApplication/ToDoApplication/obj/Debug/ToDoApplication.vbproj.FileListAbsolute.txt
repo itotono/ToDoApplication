@@ -1,0 +1,12 @@
+C:\Users\itotono\source\repos\ToDoApplication\ToDoApplication\bin\Debug\ToDoApplication.exe.config
+C:\Users\itotono\source\repos\ToDoApplication\ToDoApplication\bin\Debug\ToDoApplication.exe
+C:\Users\itotono\source\repos\ToDoApplication\ToDoApplication\bin\Debug\ToDoApplication.pdb
+C:\Users\itotono\source\repos\ToDoApplication\ToDoApplication\bin\Debug\ToDoApplication.xml
+C:\Users\itotono\source\repos\ToDoApplication\ToDoApplication\obj\Debug\ToDoApplication.vbprojAssemblyReference.cache
+C:\Users\itotono\source\repos\ToDoApplication\ToDoApplication\obj\Debug\ToDoApplication.Form1.resources
+C:\Users\itotono\source\repos\ToDoApplication\ToDoApplication\obj\Debug\ToDoApplication.Resources.resources
+C:\Users\itotono\source\repos\ToDoApplication\ToDoApplication\obj\Debug\ToDoApplication.vbproj.GenerateResource.cache
+C:\Users\itotono\source\repos\ToDoApplication\ToDoApplication\obj\Debug\ToDoApplication.vbproj.CoreCompileInputs.cache
+C:\Users\itotono\source\repos\ToDoApplication\ToDoApplication\obj\Debug\ToDoApplication.exe
+C:\Users\itotono\source\repos\ToDoApplication\ToDoApplication\obj\Debug\ToDoApplication.xml
+C:\Users\itotono\source\repos\ToDoApplication\ToDoApplication\obj\Debug\ToDoApplication.pdb

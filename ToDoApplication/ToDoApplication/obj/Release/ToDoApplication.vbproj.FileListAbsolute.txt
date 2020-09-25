@@ -1,0 +1,12 @@
+C:\Users\itotono\source\repos\ToDoApplication\ToDoApplication\bin\Release\ToDoApplication.exe.config
+C:\Users\itotono\source\repos\ToDoApplication\ToDoApplication\bin\Release\ToDoApplication.exe
+C:\Users\itotono\source\repos\ToDoApplication\ToDoApplication\bin\Release\ToDoApplication.pdb
+C:\Users\itotono\source\repos\ToDoApplication\ToDoApplication\bin\Release\ToDoApplication.xml
+C:\Users\itotono\source\repos\ToDoApplication\ToDoApplication\obj\Release\ToDoApplication.vbprojAssemblyReference.cache
+C:\Users\itotono\source\repos\ToDoApplication\ToDoApplication\obj\Release\ToDoApplication.Form1.resources
+C:\Users\itotono\source\repos\ToDoApplication\ToDoApplication\obj\Release\ToDoApplication.Resources.resources
+C:\Users\itotono\source\repos\ToDoApplication\ToDoApplication\obj\Release\ToDoApplication.vbproj.GenerateResource.cache
+C:\Users\itotono\source\repos\ToDoApplication\ToDoApplication\obj\Release\ToDoApplication.vbproj.CoreCompileInputs.cache
+C:\Users\itotono\source\repos\ToDoApplication\ToDoApplication\obj\Release\ToDoApplication.exe
+C:\Users\itotono\source\repos\ToDoApplication\ToDoApplication\obj\Release\ToDoApplication.xml
+C:\Users\itotono\source\repos\ToDoApplication\ToDoApplication\obj\Release\ToDoApplication.pdb
